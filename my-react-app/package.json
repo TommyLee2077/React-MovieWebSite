@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+   "homepage": "https://tommylee2077.github.io/React-MovieWebSite/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
